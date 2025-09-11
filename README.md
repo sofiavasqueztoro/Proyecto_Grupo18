@@ -22,3 +22,8 @@ Objetivo:
 - Evaluar su desempeño mediante métricas estándar (precision, recall, F1-score, accuracy).
 
 - Extraer vocabulario relevante por clase para explicar los resultados y apoyar estrategias de intervención.
+
+**Autores:**
+Isabella Caputi - 202122075
+Mario Velasquez - 202020502
+Sofia Vasquez - 202123910
